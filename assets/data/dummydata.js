@@ -1,7 +1,7 @@
-import { AiOutlineCalendar } from "react-icons/ai"
-import { TfiRulerPencil } from "react-icons/tfi"
-import { VscFileSubmodule } from "react-icons/vsc"
-import { BiUser } from "react-icons/bi"
+import { AiOutlineCalendar } from "react-icons/ai";
+import { TfiRulerPencil } from "react-icons/tfi";
+import { VscFileSubmodule } from "react-icons/vsc";
+import { BiUser } from "react-icons/bi";
 
 export const home = [
   {
@@ -20,33 +20,62 @@ export const home = [
     icon: <BiUser size={25} />,
     title: "Customer satisfaction is our top priority",
   },
-]
+];
 export const expertise = [
   {
     id: 1,
     title: "Custom Web Development",
     cover: "../images/e1.jpg",
-    desc: [{ text: "Web design" }, { text: "Web development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Website audit" }],
+    desc: [
+      { text: "Web design" },
+      { text: "Web development" },
+      { text: "Custom icons & illustrations" },
+      { text: "Hosting" },
+      { text: "Website audit" },
+    ],
+    para1:
+      "We take great pride in delivering customized web development services tailored to meet the unique needs of our clients. Our team is composed of highly skilled developers who use the latest technology and best practices to transform your vision into a reality. It entails creating an intuitive, secure, and functional website utilizing many technologies and programming languages such as HTML, CSS, JavaScript and React.",
+    para2:
+      "From designing captivating interfaces that reflect brand identity to integrating robust functionalities into every corner of a website's architecture; they leave no stone unturned in providing impeccable end-to-end solutions that resonate with client objectives – rendering null room for dissatisfaction or compromise.",
+      para3: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish.",
+      para4: "By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
+      para5: "For more information on how our bespoke web development services may elevate your online presence, get in touch with us right away.",
+      para6: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish. By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
+      para7: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish. By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
   },
   {
     id: 2,
     title: "WordPress Websites",
     cover: "../images/e2.jpg",
-    desc: [{ text: "Social media marketing" }, { text: "Marketing campaigns" }, { text: "Markting management" }, { text: "SEO" }],
+    desc: [
+      { text: "Social media marketing" },
+      { text: "Marketing campaigns" },
+      { text: "Markting management" },
+      { text: "SEO" },
+    ],
   },
   {
     id: 3,
     title: "E-Commerce",
     cover: "../images/e3.jpg",
-    desc: [{ text: "E-Commerce website design" }, { text: "WooCommerce" }, { text: "Content management" }, { text: "Hosting" }],
+    desc: [
+      { text: "E-Commerce website design" },
+      { text: "WooCommerce" },
+      { text: "Content management" },
+      { text: "Hosting" },
+    ],
   },
   {
     id: 4,
     title: "Branding & Creative Services",
     cover: "../images/e4.jpg",
-    desc: [{ text: "Visual identity" }, { text: "Branding for social media" }, { text: "Custom illustrations" }],
+    desc: [
+      { text: "Visual identity" },
+      { text: "Branding for social media" },
+      { text: "Custom illustrations" },
+    ],
   },
-]
+];
 export const testimonial = [
   {
     id: 1,
@@ -76,7 +105,7 @@ export const testimonial = [
     post: "Seven Arts - marketing manager",
     desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
   },
-]
+];
 export const showcase = [
   {
     id: 1,
@@ -114,7 +143,7 @@ export const showcase = [
     cover: "../images/s6.jpg",
     catgeory: "WEBSITES	",
   },
-]
+];
 export const brand = [
   {
     id: 1,
@@ -140,7 +169,7 @@ export const brand = [
     id: 6,
     cover: "../images/l6.svg",
   },
-]
+];
 export const blogdata = [
   {
     id: 1,
@@ -170,7 +199,7 @@ export const blogdata = [
     catgeory: "",
     date: "",
   },
-]
+];
 export const teamdata = [
   {
     id: 1,
@@ -220,4 +249,4 @@ export const teamdata = [
     cover: "../images/t8.jpg",
     post: "",
   },
-]
+];

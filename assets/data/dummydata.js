@@ -24,13 +24,13 @@ export const home = [
 export const expertise = [
   {
     id: 1,
-    title: "Web Design & Development",
+    title: "Custom Web Development",
     cover: "../images/e1.jpg",
     desc: [{ text: "Web design" }, { text: "Web development" }, { text: "Custom icons & illustrations" }, { text: "Hosting" }, { text: "Website audit" }],
   },
   {
     id: 2,
-    title: "Digital Marketing",
+    title: "WordPress Websites",
     cover: "../images/e2.jpg",
     desc: [{ text: "Social media marketing" }, { text: "Marketing campaigns" }, { text: "Markting management" }, { text: "SEO" }],
   },
@@ -144,31 +144,31 @@ export const brand = [
 export const blogdata = [
   {
     id: 1,
-    title: "Ligula vel urna accumsan placerat",
+    title: "Custom Web Development",
     cover: "../images/b1.webp",
-    catgeory: "INDUSTRY",
-    date: "JANUARY 12, 2023",
+    catgeory: "",
+    date: "",
   },
   {
     id: 2,
-    title: "Don’t underestimate the lorem ipsum dolor amet",
+    title: "WordPress Websites",
     cover: "../images/b2.jpg",
-    catgeory: "TIPS & TRICKS",
-    date: "OCTOBER 20, 2023",
+    catgeory: "",
+    date: "",
   },
   {
     id: 3,
-    title: "Building the real VR lorem ipsum dolor amet glavrida from a scratch",
+    title: "E-Commerce",
     cover: "../images/b3.jpg",
-    catgeory: "TIPS & TRICKS",
-    date: "OCTOBER 9, 2023",
+    catgeory: "",
+    date: "",
   },
   {
     id: 4,
-    title: "What eleifend posuere tincidunt",
+    title: "Branding & Creative Services",
     cover: "../images/b4.jpg",
-    catgeory: "EVENTS",
-    date: "OCTOBER 8, 2023",
+    catgeory: "",
+    date: "",
   },
 ]
 export const teamdata = [

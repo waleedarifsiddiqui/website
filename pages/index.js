@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>R-TechQA Design</title>
+        <title>R-TechQA Pakistan</title>
       </Head>
       <Hero />
     </>

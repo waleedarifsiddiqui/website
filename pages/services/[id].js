@@ -25,11 +25,13 @@ const SinglePost = () => {
               <img src={post.cover} alt={post.title} width='100%' height='100%' className='round' />
             </div>
             <div className='desc'>
-              <TitleSm title='Our organization strives to stay ahead of the curve in the constantly evolving field of web development.' />
+              <TitleSm title={post.para6} />
               <p className='desc-p'>{post.para1}</p>
               <p className='desc-p'>{post.para2}</p>
               <p className='desc-p'>{post.para3}</p>
               <p className='desc-p'>{post.para4}</p>
+              <p className='desc-p'>{post.para5}</p>
+              <p className='desc-p'>{post.para7}</p>
             </div>
           </div>
           <Banner />

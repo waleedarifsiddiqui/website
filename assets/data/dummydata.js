@@ -37,33 +37,60 @@ export const expertise = [
       "We take great pride in delivering customized web development services tailored to meet the unique needs of our clients. Our team is composed of highly skilled developers who use the latest technology and best practices to transform your vision into a reality. It entails creating an intuitive, secure, and functional website utilizing many technologies and programming languages such as HTML, CSS, JavaScript and React.",
     para2:
       "From designing captivating interfaces that reflect brand identity to integrating robust functionalities into every corner of a website's architecture; they leave no stone unturned in providing impeccable end-to-end solutions that resonate with client objectives – rendering null room for dissatisfaction or compromise.",
-      para3: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish.",
-      para4: "By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
-      para5: "For more information on how our bespoke web development services may elevate your online presence, get in touch with us right away.",
-      para6: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish. By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
-      para7: "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish. By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
+    para3:
+      "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish.",
+    para4:
+      "By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
+    para5:
+      "For more information on how our bespoke web development services may elevate your online presence, get in touch with us right away.",
+    para6:
+      "Our organization strives to stay ahead of the curve in the constantly evolving field of web development.",
+    para7:
+      "We understand that each organization has distinct requirements, so we create websites that not only reflect your identity, but also deliver seamless functionality and an exceptional user experience. We are committed to providing rigorous planning, flawless execution, and continuous communication with our clients, ensuring that each project receives our undivided attention from start to finish. By utilizing cutting-edge tools and frameworks, we guarantee the highest level of performance, security, and scalability for your website - empowering your online presence and making a lasting impact in today's digital landscape.",
   },
   {
     id: 2,
-    title: "WordPress Websites",
+    title: "QA Testing",
     cover: "../images/e2.jpg",
     desc: [
-      { text: "Social media marketing" },
-      { text: "Marketing campaigns" },
-      { text: "Markting management" },
-      { text: "SEO" },
+      { text: "Functional testing" },
+      { text: "Localization testing" },
+      { text: "Security testing" },
+      { text: "Usability testing" },
     ],
+    para6:
+    "Our Team is equipped to conduct any type of testing you require",
+    para1:
+      "Welcome to R-Tech, the exceptional and unparalleled gem in the world of Quality Assurance and Automation testing. We are your premier source for comprehensive and dependable web automation and manual quality assurance (QA) services. As a leading provider in the industry, we are committed to deliver top-tier solutions to help our clients attain their business objectives. At R-Tech, we recognize the significance of having a robust and efficient software testing process. That's why we offer a range of services to assist you in automating your testing process, including web automation and manual QA. Our team of seasoned professionals have spent years perfecting the art of automation testing services through rigorous training and experience, which has resulted in the development of a highly refined and sophisticated skill set ,and is dedicated to provide you with the highest quality service, ensuring that your software conforms to the most rigorous standards of quality and performance. We're passionate about delivering the best possible product release to our clients and we manage their expectations with precision, care, and meticulous attention to detail.",
+    para2:
+      "Whether you're seeking to automate your testing process or require assistance with manual QA, we're here to help.",
+    para3:
+      "Our web automation services are designed to help you streamline your testing process and minimize manual errors. We employ cutting-edge technologies and tools and follow strict protocols to automate testing process, ensuring that your software is of the highest quality and performance, and our personnel write test scenarios with the utmost expertise and finesse. We assess load, stress, and performance testing to ensure maximum efficiency, and we're constantly striving to increase test efficiency and develop value for software. We stay up-to-date with the latest methods and techniques for automation testing, which enables us to provide our clients with the most advanced and innovative solutions.",
+      para4:
+      "Our manual QA services are tailored to meet your specific needs and requirements. We work closely with our clients to understand their software and business objectives, and we develop a custom testing plan to ensure that your software is of the highest quality",
+      para5:
+      "Our team possesses the expertise and experience necessary to assist you in achieving your goals. We collaborate closely with our clients to understand their specific needs and requirements. At R-Tech, we are committed to provide our clients with the best possible service. We work tirelessly to ensure that your project is completed on time and within budget.",
+    para7:
+      "If you're seeking dependable and efficient web automation and manual QA services, look no further than R-Tech. Contact us today to learn more about our services and how we can assist you in achieving your business objectives.",
   },
   {
     id: 3,
-    title: "E-Commerce",
+    title: "E-Commerce & Shopify Development",
     cover: "../images/e3.jpg",
     desc: [
       { text: "E-Commerce website design" },
-      { text: "WooCommerce" },
+      { text: "Shopify Development" },
       { text: "Content management" },
       { text: "Hosting" },
     ],
+    para6:
+    "Introducing our Ecommerce and Shopify web development services, where we help businesses establish a strong online presence and maximize their sales potential.",
+    para1:
+      "Our team of expert developers and designers are committed to creating visually stunning and user-friendly websites that are tailored to meet your specific needs.",
+    para2:
+      "With our Ecommerce & Shopify web development, you can showcase your products or services in an attractive and intuitive manner, providing your customers with a seamless shopping experience. In addition to creating visually stunning websites, our team also focuses on optimizing the site for search engines (SEO). This means that your online store will have better visibility in search engine results pages, driving organic traffic and increasing the chances of conversions.",
+    para3:
+      "From secure payment gateways to inventory management systems, we ensure that your Ecommerce website is equipped with all the essential features to drive conversions and boost your online sales. Trust us to bring your business into the digital age and elevate your brand to new heights with our top-notch Ecommerce website development service.",
   },
   {
     id: 4,
@@ -74,6 +101,20 @@ export const expertise = [
       { text: "Branding for social media" },
       { text: "Custom illustrations" },
     ],
+    para6:
+    " We recognize that a logo is the visual representation of your brand and that it is critical in establishing an impression on your target audience.",
+    para1:
+      "Welcome to the UI/UX designer services of our organization! We recognize the significance of providing your website visitors with a flawless and engaging user experience. We are here to assist you boost your online presence and leave a lasting impact on your audience with our team of professional UI/UX designers.",
+    para2:
+      "Whether you're seeking to automate your testing process or require assistance with manual QA, we're here to help.",
+    para3:
+      "The user experience is key to our approach. We think that every user interaction with your website should be simple and pleasurable. Our UI/UX designers are experts in creating aesthetically appealing interfaces that not only capture users' attention but also guide them to the necessary actions. We can help you construct a user-friendly navigation system or create interactive components that increase engagement.",
+      para4:
+      "Our manual QA services are tailored to meet your specific needs and requirements. We work closely with our clients to understand their software and business objectives, and we develop a custom testing plan to ensure that your software is of the highest quality",
+      para5:
+      "Our team possesses the expertise and experience necessary to assist you in achieving your goals. We collaborate closely with our clients to understand their specific needs and requirements. At R-Tech, we are committed to provide our clients with the best possible service. We work tirelessly to ensure that your project is completed on time and within budget.",
+    para7:
+      "If you're seeking dependable and efficient web automation and manual QA services, look no further than R-Tech. Contact us today to learn more about our services and how we can assist you in achieving your business objectives.",
   },
 ];
 export const testimonial = [
